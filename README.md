@@ -106,11 +106,6 @@ MIT License — uso libre bajo tu responsabilidad.
 
 ---
 
-## 📦 requirements.txt
-
-```txt
-pycryptodome
-
 > ⚠️ IMPORTANTE
 NO uses Crypto (está roto/obsoleto).
 El módulo correcto es pycryptodome, que expone Crypto.*.
