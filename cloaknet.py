@@ -117,4 +117,4 @@ def main():
 if __name__ == "__main__":
     main()
 
-#"de que me sirven un par de tetas, un #culo o un cipote si aunque me encante el #cuerpo de alguien yo me enamoro de la #mente, de su inteligencia y su astucia, #que importa si es hombre o mujer total #me importará más que entienda mi visión #alterada..."
+#"de que me sirven un par de tetas, un culo o un cipote si aunque me encante el cuerpo de alguien yo me enamoro de la mente, de su inteligencia y su astucia, que importa si es hombre o mujer total me importará más que entienda mi visión alterada..."
